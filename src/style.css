@@ -1,0 +1,32 @@
+.card__width {
+    max-width: 18rem;
+}
+
+.carousel__image{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.font__title{
+    font-family: 'Pacifico', cursive;
+}
+
+.especial__color {
+    color: darkred!important;
+}
+
+.especial__color-button {
+    background-color: darkred;
+    color: #fff;
+}
+
+.especial__color-border {
+    border-color: darkred;
+}
+
+.card__image-position {
+    object-fit: cover;
+    /* object-position: 0 80%; */
+    height: 200px;
+}
